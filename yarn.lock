@@ -473,6 +473,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"administrador-pacientes@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "administrador-pacientes@workspace:."
+  dependencies:
+    "@types/react": ^18.0.24
+    "@types/react-dom": ^18.0.8
+    "@vitejs/plugin-react": ^2.2.0
+    react: ^18.2.0
+    react-dom: ^18.2.0
+    vite: ^3.2.3
+  languageName: unknown
+  linkType: soft
+
 "agent-base@npm:6, agent-base@npm:^6.0.2":
   version: 6.0.2
   resolution: "agent-base@npm:6.0.2"
@@ -1559,19 +1572,6 @@ __metadata:
   checksum: f96a3f6d90b92b568a26f71e966cbbc0f63ab85ea6ff6c81284dc869b41510e6cdef99b6b65f9030f0db422bf7c96652a3fff9f2e8fb4a0f069d8f4430359429
   languageName: node
   linkType: hard
-
-"react-base-vite@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "react-base-vite@workspace:."
-  dependencies:
-    "@types/react": ^18.0.24
-    "@types/react-dom": ^18.0.8
-    "@vitejs/plugin-react": ^2.2.0
-    react: ^18.2.0
-    react-dom: ^18.2.0
-    vite: ^3.2.3
-  languageName: unknown
-  linkType: soft
 
 "react-dom@npm:^18.2.0":
   version: 18.2.0
